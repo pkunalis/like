@@ -15,6 +15,7 @@
         <module>like-manager</module>
         <module>like-rpc</module>
         <module>like-domain</module>
+        <module>like-data</module>
     </modules>
 
 
