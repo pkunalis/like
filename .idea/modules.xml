@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/like.iml" filepath="$PROJECT_DIR$/like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-api/like-api.iml" filepath="$PROJECT_DIR$/like-api/like-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-api-impl/like-api-impl.iml" filepath="$PROJECT_DIR$/like-api-impl/like-api-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-data/like-data.iml" filepath="$PROJECT_DIR$/like-data/like-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-domain/like-domain.iml" filepath="$PROJECT_DIR$/like-domain/like-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-manager/like-manager.iml" filepath="$PROJECT_DIR$/like-manager/like-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-rpc/like-rpc.iml" filepath="$PROJECT_DIR$/like-rpc/like-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like-service/like-service.iml" filepath="$PROJECT_DIR$/like-service/like-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="like-api" />
+        <module name="like-api-impl" />
+        <module name="like-data" />
+        <module name="like-domain" />
+        <module name="like-manager" />
+        <module name="like-rpc" />
+        <module name="like-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="like" target="1.5" />
+      <module name="like-api" target="1.5" />
+      <module name="like-api-impl" target="1.5" />
+      <module name="like-data" target="1.5" />
+      <module name="like-domain" target="1.5" />
+      <module name="like-manager" target="1.5" />
+      <module name="like-rpc" target="1.5" />
+      <module name="like-service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
